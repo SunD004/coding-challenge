@@ -43,7 +43,7 @@ In short, we're looking at two main evaluation criteria: **code** & **documentat
 
 #### Documentation
 
-You will also need to provide documentation to the client and your team so they can better understand the application that you've built, your approach to solving it and the decisions you took while building it. There's a blank document for you to use [here](./docs/Submission.md).
+You will also need to provide documentation to the client and your team so they can better understand the application that you've built, your approach to solving it and the decisions you took while building it. You can send it in the email or in a Readme.md.
 
 You should document as many of the following as applicable:
 - how you approached the problem
